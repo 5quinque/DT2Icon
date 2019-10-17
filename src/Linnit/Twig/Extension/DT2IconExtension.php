@@ -5,7 +5,7 @@ namespace Linnit\Twig\Extension;
 use Twig\Extension\AbstractExtension;
 use Twig\TwigFilter;
 
-class DT2ClockExtension extends AbstractExtension
+class DT2IconExtension extends AbstractExtension
 {
     public function getFilters()
     {
