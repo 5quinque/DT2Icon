@@ -29,12 +29,10 @@ or update your composer.json
 Add the extension to Symfony
 
 ```yaml
-# app/config/config.yml
-services:
+# app/config/services.yml
     linnit.twig.dt2icon:
-        class: Linnit\Twig\Extension\DT2ClockExtension
-        tags:
-            - { name: twig.extension }
+        class: Linnit\Twig\Extension\DT2IconExtension
+        tags: ['twig.extension']
 ```
 
 
