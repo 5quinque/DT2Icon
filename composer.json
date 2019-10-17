@@ -1,6 +1,7 @@
 {
     "name": "linnit/dt2icon",
     "description": "A twig extension to convert datetime to an icon",
+    "license": "MIT",
     "require": {
         "php": "^7.0",
         "twig/twig": "^1.41|^2.10|^3.0"
