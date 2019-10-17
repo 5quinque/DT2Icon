@@ -3,7 +3,7 @@
     "description": "A twig extension to convert datetime to an icon",
     "require": {
         "php": "^7.0",
-        "twig/twig": "^2.0|^3@dev"
+        "twig/twig": "^1.41|^2.10|^3.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.4"
