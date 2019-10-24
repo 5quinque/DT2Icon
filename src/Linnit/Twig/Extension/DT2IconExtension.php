@@ -41,6 +41,7 @@ class DT2IconExtension extends AbstractExtension
             "🕦",  // U+1F566  CLOCK FACE ELEVEN-THIRTY
             "🕛",  // U+1F55B  CLOCK FACE TWELVE OCLOCK
             "🕧",  // U+1F567  CLOCK FACE TWELVE-THIRTY
+            "🕐",  // U+1F550  CLOCK FACE ONE OCLOCK
         ];
 
         $hours = (float) $datetime->format('g');
